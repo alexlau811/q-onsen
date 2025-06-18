@@ -1,6 +1,24 @@
 # Onsen Resort Management Game
 
+```
+╔═══════════════════════════════════════════════╗
+║  ██████  ███    ██ ███████ ███████ ███    ██  ║
+║ ██    ██ ████   ██ ██      ██      ████   ██  ║
+║ ██    ██ ██ ██  ██ ███████ █████   ██ ██  ██  ║
+║ ██    ██ ██  ██ ██      ██ ██      ██  ██ ██  ║
+║  ██████  ██   ████ ███████ ███████ ██   ████  ║
+║                                               ║
+║        ♨️  RESORT MANAGEMENT GAME  ♨️         ║
+╚═══════════════════════════════════════════════╝
+```
+
 A text-based business simulation game where you manage your own hot spring resort in Japan.
+
+## The-making-of Video
+
+This game is created solely by prompting Amazon Q CLI without typing a single line of code. The entire game development process is captured in a terminal video.
+
+[![asciicast](https://asciinema.org/a/723641.svg)](https://asciinema.org/a/723641)
 
 ## Game Features
 
