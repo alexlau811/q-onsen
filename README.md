@@ -14,7 +14,7 @@
 
 A text-based business simulation game where you manage your own hot spring resort in Japan.
 
-![demo](https://raw.githubusercontent.com/alexlau811/q-onsen/demo.gif)
+![demo](https://github.com/alexlau811/q-onsen/blob/main/demo.gif?raw=true)
 
 ## The-making-of Video
 
